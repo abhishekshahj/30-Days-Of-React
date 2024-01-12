@@ -75,7 +75,7 @@ const User = (props) => {
   )
 }
 // calling or instantiating a component, this component has three properties and we call them props:firstName, lastName, country
-<User firstName = 'Asabeneh', lastName='Yetayeh' country = 'Finland' />
+<User firstName = 'Asabeneh' lastName='Yetayeh' country = 'Finland' />
 ```
 
 In the previous section, we injected data as follows and today we will change these data to props.
